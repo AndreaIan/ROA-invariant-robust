@@ -1,6 +1,6 @@
 %Release v1_1 - 06/02/2019
 % Author: Andrea Iannelli (University of Bristol)
-% Supervisor: Dr. Andrés Marcos (University of Bristol)
+% Supervisor: Dr. AndrÃ©s Marcos (University of Bristol)
 % contact: andrea.iannelli@bristol.ac.uk (alternatively, andrea.iannelli.uni@gmail.com)
 %------------------------------------------------------------------
 
@@ -8,6 +8,7 @@ The MATLAB files in this folder present an implementation of the algorithms
 developed in the paper "Robust estimations of the region of attraction using invariant sets", accepted to 
 the Journal of The Franklin Institute. The pre-print of the paper is in the folder under the name "ROA_Invariant_prePrint".
 
+The only change compared to the Release v1_0 is the addition of the pre-printed paper after its acceptance (in February 2019).
   
 Files structure:
 There are 2 Main files. Specifically:
